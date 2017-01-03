@@ -1,0 +1,32 @@
+{
+  "name": "cs496_assignment_2",
+  "version": "1.0.0",
+  "description": "Winter 2016 CS496 Assignment 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/alphahoon/CS496_Assignment_2.git"
+  },
+  "author": "Jaehon Lee, Yeaseul Park",
+  "license": "ISC",
+  "dependencies": {
+    "beautify": "0.0.8",
+    "body-parser": "^1.15.2",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.0",
+    "eslint": "^3.12.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "jshint": "^2.9.4",
+    "json": "^9.0.4",
+    "mongodb": "^2.2.16",
+    "monk": "^3.1.3",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.1",
+    "serve-favicon": "^2.3.2"
+  }
+}
